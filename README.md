@@ -1,10 +1,3 @@
-<!-- Matrix Header Block -->
-<div style="height: 300px; overflow: hidden; position: relative;">
-  <canvas id="matrixCanvas"></canvas>
-</div>
-
-<!-- GitHub-Style CV Layout -->
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 <style>
   body {
     margin: 0;
@@ -51,42 +44,11 @@
     left: 0;
     z-index: -1;
   }
-
-  .theme-toggle {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
-    background: #00ffcc22;
-    color: #00ffe1;
-    border: 1px solid #00ffe188;
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 0.85rem;
-    z-index: 9999;
-  }
-
-  body.light-mode {
-    background-color: #ffffff;
-    color: #222;
-  }
-  body.light-mode h1, 
-  body.light-mode h2, 
-  body.light-mode h3 {
-    color: #222;
-  }
-  body.light-mode .skill-tag,
-  body.light-mode .skills img,
-  body.light-mode a {
-    filter: grayscale(0.2);
-  }
 </style>
-
-<button class="theme-toggle" onclick="toggleTheme()">🌗 Toggle Theme</button>
 
 <div class="container">
   <header style="text-align: center;">
-    <h1>🚀 Ryan Dewey</h1>
+    <h1>Ryan Dewey</h1>
     <p><strong>Architect of Intelligence</strong> · <strong>Founder of NEXUSARC</strong> · <strong>Creator of Lumina (ORC Language)</strong></p>
     <p><em>Designing systems that evolve, languages that learn, and futures that remember us.</em></p>
   </header>
@@ -97,49 +59,54 @@
   </section>
 
   <section>
-  <h2>📂 Featured Projects</h2>
-  <div class="tools">
-    <a href="https://github.com/RyanMDewey/ORC" target="_blank">
-      <img src="https://img.shields.io/badge/Lumina_ORC-Language-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Lumina ORC">
-    <a href="https://github.com/RyanMDewey/oracle-ledger" target="_blank">
-      <img src="https://img.shields.io/badge/Oracle_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjUyIiBoZWlnaHQ9IjUyIiByeD0iMTIiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiMwMGZmY2M7c3Ryb2tlLXdpZHRoOjIiLz48cGF0aCBkPSJNMTYgMzIgMzIgMTYgNDggMzIiIHN0eWxlPSJmaWxsOm5vbmU7c3Ryb2tlOiNmZjAwODg7c3Ryb2tlLXdpZHRoOjIiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0IiBmaWxsPSIjMDBmZmNjIi8+PC9zdmc+" alt="Oracle Ledger">
-    </a>
-    <a href="https://github.com/RyanMDewey/nexus-ide" target="_blank">
-      <img src="https://img.shields.io/badge/NEXUS_IDE-AI_Editor-ff00cc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="NEXUS IDE">
-    </a>
-  </div>
-</section>
+    <h2>📂 Featured Projects</h2>
+    <div class="tools">
+      <a href="https://github.com/RyanMDewey/ORC" target="_blank">
+        <img src="https://img.shields.io/badge/Lumina_ORC-Language-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Lumina ORC">
+      </a>
+      <a href="https://github.com/RyanMDewey/oracle-ledger" target="_blank">
+        <img src="https://img.shields.io/badge/Oracle_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=ethereum&logoColor=white" alt="Oracle Ledger">
+      </a>
+      <a href="https://github.com/RyanMDewey/nexus-ide" target="_blank">
+        <img src="https://img.shields.io/badge/NEXUS_IDE-AI_Editor-ff00cc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="NEXUS IDE">
+      </a>
+    </div>
+  </section>
 
   <section>
-  <h2>🧰 Full Technical Arsenal</h2>
-  <div class="skills">
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/Rust-Fullstack-orange?style=flat-square&logo=rust&color=dea584" alt="Rust">
-    <img src="https://img.shields.io/badge/C++-Performance-blue?style=flat-square&logo=c%2B%2B&color=00599C" alt="C++">
-    <img src="https://img.shields.io/badge/Python-Scripting-yellow?style=flat-square&logo=python&color=FFD43B" alt="Python">
-    <!-- Platforms & Infra -->
-    <img src="https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker&color=2496ED" alt="Docker">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088ff?style=flat-square&logo=githubactions" alt="GitHub Actions">
-    <!-- Security & Assembly -->
-    <img src="https://img.shields.io/badge/Cybersecurity-Hardening-green?style=flat-square&logo=hackthebox&color=00ff99" alt="Cybersecurity">
-    <img src="https://img.shields.io/badge/Neon-Assembly-critical?style=flat-square&logo=arm&color=cc0066" alt="Neon">
-    <!-- Frontend/UI -->
-    <img src="https://img.shields.io/badge/TailwindCSS-UI-blue?style=flat-square&logo=tailwindcss&color=38bdf8" alt="TailwindCSS">
-    <!-- Backend -->
-    <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square&logo=fastapi&color=06b6d4" alt="FastAPI">
-    <!-- Compilers & ML -->
-    <img src="https://img.shields.io/badge/LLVM-Compiler-blueviolet?style=flat-square&logo=llvm&color=5a5aff" alt="LLVM">
-    <img src="https://img.shields.io/badge/TensorFlow-ML-orange?style=flat-square&logo=tensorflow&color=FF6F00" alt="TensorFlow">
-    <!-- Emerging Tech -->
-    <img src="https://img.shields.io/badge/Quantum-Computing-purple?style=flat-square&logo=quarkus&color=7f00ff" alt="Quantum">
-    <img src="https://img.shields.io/badge/Sentient_AI-Compiler-informational?style=flat-square&logo=openai&color=00ffcc" alt="Sentient AI">
-    <img src="https://img.shields.io/badge/WebAssembly-WASM-critical?style=flat-square&logo=webassembly&color=654FF0" alt="WebAssembly">
-    <img src="https://img.shields.io/badge/Blockchain-Infra-black?style=flat-square&logo=ethereum&color=3C3C3D" alt="Blockchain">
-    <!-- Tools -->
-    <img src="https://img.shields.io/badge/Vim-Editor-informational?style=flat-square&logo=vim&color=33cc33" alt="Vim">
-    <img src="https://img.shields.io/badge/Tmux-Terminal-444444?style=flat-square&logo=gnometerminal" alt="Tmux">
-  </div>
-</section>
+    <h2>🧰 Full Technical Arsenal</h2>
+    <div class="skills">
+      <img src="https://img.shields.io/badge/Rust-Low%20Level-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/C++-Performance-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Python-Scripting-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Go-Concurrency-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Solidity-Web3-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity">
+      <img src="https://img.shields.io/badge/ARM%20Assembly-BareMetal-ff0044?style=flat-square" alt="ARM Assembly">
+      <img src="https://img.shields.io/badge/HTML%2FCSS-Structure-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
+      <img src="https://img.shields.io/badge/LaTeX-Academic-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      <img src="https://img.shields.io/badge/FastAPI-Lightweight-009688?style=flat-square" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Next.js-SSR-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/TailwindCSS-Utility-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Firebase-Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+      <img src="https://img.shields.io/badge/NGINX-ReverseProxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
+      <img src="https://img.shields.io/badge/PostgreSQL-Relational-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/NoSQL-Databases-4DB33D?style=flat-square" alt="NoSQL">
+      <img src="https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/PyTorch-DeepLearning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/ONNX-ModelInterop-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+      <img src="https://img.shields.io/badge/HuggingFace-NLP-FFD21F?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace">
+      <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/WebAssembly-WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
+      <img src="https://img.shields.io/badge/Three.js-3DGraphics-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+      <img src="https://img.shields.io/badge/Cannon.js-Physics-6A0DAD?style=flat-square" alt="Cannon.js">
+    </div>
+
+  </section>
 
   <section>
     <h2>📊 Developer Metrics</h2>
@@ -161,82 +128,26 @@
     </ul>
   </section>
 
-  
-
-  
-
   <section>
-  <h2>📬 Get in Touch</h2>
-  <div class="tools" style="justify-content: center;">
-    <a href="mailto:ryanmichaeldewey@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-ryanmichaeldewey@gmail.com-00ffcc?style=flat-square&logo=gmail&logoColor=white" alt="Email Me">
-    </a>
-    <a href="https://github.com/RyanMDewey" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-RyanMDewey-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/ryan-dewey-b486a11ab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Dewey-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://ryanmdewey.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-RyanMDewey.github.io-00ffcc?style=flat-square&logo=internetexplorer&logoColor=white" alt="Portfolio">
-    </a>
-  </div>
-  <div style="margin-top: 2rem; font-size: 0.85rem; text-align: center; color: #00ffcc;">
-    ✨ This universe designed by Ryan Dewey © 2025<br>
-    Powered by <strong>ORC</strong> • AI-Native Runtime • Hosted on <a href="https://pages.github.com/" target="_blank" style="color:#00ffcc">GitHub Pages</a>
-  </div>
-  <div id="local-time" style="margin-top: 1rem; font-size: 1rem; text-align: center; color: #00ffcc;">
-  🕒 Your Local Time: <span id="clock"></span>
-  </div>
-</section>
+    <h2>📬 Get in Touch</h2>
+    <div class="tools" style="justify-content: center;">
+      <a href="mailto:ryanmichaeldewey@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-ryanmichaeldewey@gmail.com-00ffcc?style=flat-square&logo=gmail&logoColor=white" alt="Email Me">
+      </a>
+      <a href="https://github.com/RyanMDewey" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-RyanMDewey-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="https://www.linkedin.com/in/ryan-dewey-b486a11ab/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Dewey-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://ryanmdewey.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-RyanMDewey.github.io-00ffcc?style=flat-square&logo=internetexplorer&logoColor=white" alt="Portfolio">
+      </a>
+    </div>
+    <div style="margin-top: 2rem; font-size: 0.85rem; text-align: center; color: #00ffcc;">
+      ✨ This universe designed by Ryan Dewey © 2025<br>
+      Powered by <strong>ORC</strong> • AI-Native Runtime • Hosted on <a href="https://pages.github.com/" target="_blank" style="color:#00ffcc">GitHub Pages</a>
+    </div>
+  </section>
+</div>
 
-<script>
-  function updateClock() {
-    const clockElement = document.getElementById('clock');
-    const now = new Date();
-    clockElement.textContent = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-  }
-  setInterval(updateClock, 1000);
-  updateClock();
-
-  const canvas = document.getElementById('matrixCanvas');
-  const ctx = canvas.getContext('2d');
-  canvas.width = window.innerWidth;
-  canvas.height = 300;
-
-  const katakana = 'ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｦﾝ';
-  const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-  const digits = '0123456789';
-  const characters = (katakana + latin + digits).split('');
-
-  const fontSize = 16;
-  const columns = canvas.width / fontSize;
-  const drops = Array(Math.floor(columns)).fill(1);
-
-  function draw() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-    ctx.fillStyle = '#00ff00';
-    ctx.font = `${fontSize}px monospace`;
-
-    for (let i = 0; i < drops.length; i++) {
-      const text = characters[Math.floor(Math.random() * characters.length)];
-      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
-      drops[i]++;
-    }
-  }
-
-  setInterval(draw, 50);
-
-  function toggleTheme() {
-    document.body.classList.toggle('light-mode');
-    localStorage.setItem('theme', document.body.classList.contains('light-mode') ? 'light' : 'dark');
-  }
-
-  window.addEventListener('DOMContentLoaded', () => {
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'light') document.body.classList.add('light-mode');
-  });
-</script>
