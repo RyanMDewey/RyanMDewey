@@ -66,8 +66,9 @@
       <a href="https://github.com/RyanMDewey">
       <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" />
       </a>
+      <img src="https://streak-stats.demolab.com?user=RyanMDewey&theme=tokyonight" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanMDewey&repo=DRC&theme=tokyonight" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanMDewey&repo=dewey-ledger&theme=tokyonight" /> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RyanMDewey&repo=dewey-ledger&theme=tokyonight" />
       <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary">
