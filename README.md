@@ -1,7 +1,7 @@
 <div class="container">
   <header style="text-align: center;">
     <h1>Ryan Dewey</h1>
-    <p><strong>Architect of Intelligence</strong> · <strong>Founder of Dewey World Systems</strong> · <strong>Creator of Dewey Runtime Core (DRC Language)</strong></p>
+    <p><strong>Architect of Intelligence</strong> · <strong>Founder of Dewey World Systems (DWS)</strong> · <strong>Creator of Dewey Runtime Core (DRC Language)</strong></p>
     <p><em>Designing systems that evolve, languages that learn, and futures that remember us.</em></p>
   </header>
 
