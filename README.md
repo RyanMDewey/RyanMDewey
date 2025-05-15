@@ -1,7 +1,7 @@
 <div class="container">
   <header style="text-align: center;">
     <h1>Ryan Dewey</h1>
-    <p><strong>Architect of Intelligence</strong> · <strong>Founder of NEXUSARC</strong> · <strong>Creator of Lumina (ORC Language)</strong></p>
+    <p><strong>Architect of Intelligence</strong> · <strong>Founder of Dewey World Systems</strong> · <strong>Creator of Dewey Runtime Core (DRC Language)</strong></p>
     <p><em>Designing systems that evolve, languages that learn, and futures that remember us.</em></p>
   </header>
 
@@ -13,13 +13,13 @@
   <section>
     <h2>📂 Featured Projects</h2>
     <div class="tools">
-      <a href="https://github.com/RyanMDewey/ORC" target="_blank">
-        <img src="https://img.shields.io/badge/Lumina_ORC-Language-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Lumina ORC">
+      <a href="https://github.com/RyanMDewey/DWS" target="_blank">
+        <img src="https://img.shields.io/badge/Dewey_Runtime_Core_(DRC)-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Dewey Runtime Core (DRC)">
       </a>
-      <a href="https://github.com/RyanMDewey/oracle-ledger" target="_blank">
-        <img src="https://img.shields.io/badge/Oracle_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=ethereum&logoColor=white" alt="Oracle Ledger">
+      <a href="https://github.com/RyanMDewey/" target="_blank">
+        <img src="https://img.shields.io/badge/Dewey_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=ethereum&logoColor=white" alt="Dewey Ledger">
       </a>
-      <a href="https://github.com/RyanMDewey/nexus-ide" target="_blank">
+      <a href="https://github.com/RyanMDewey/" target="_blank">
         <img src="https://img.shields.io/badge/NEXUS_IDE-AI_Editor-ff00cc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="NEXUS IDE">
       </a>
     </div>
@@ -73,7 +73,7 @@
   <section>
     <h2>🎖️ Dev Accolades</h2>
     <ul>
-      <li>✨ Maintainer of AI-powered low-level compiler stack (ORC)</li>
+      <li>✨ Maintainer of AI-powered low-level compiler stack (DRC)</li>
       <li>🚀 Built autonomous blockchain infrastructure and IDE</li>
       <li>🧠 Created quantum-aware runtime environments for agent deployment</li>
       <li>📜 Recognized for advancing post-silicon programming language design</li>
@@ -98,7 +98,7 @@
     </div>
     <div style="margin-top: 2rem; font-size: 0.85rem; text-align: center; color: #00ffcc;">
       ✨ This universe designed by Ryan Dewey © 2025<br>
-      Powered by <strong>ORC</strong> • AI-Native Runtime • Hosted on <a href="https://pages.github.com/" target="_blank" style="color:#00ffcc">GitHub Pages</a>
+      Powered by <strong>Dewey World Systems</strong> • AI-Native Runtime • Hosted on <a href="https://pages.github.com/" target="_blank" style="color:#00ffcc">GitHub Pages</a>
     </div>
   </section>
 </div>
