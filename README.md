@@ -70,8 +70,8 @@
       <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" />
       </a>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph">
       <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph">
     </div>
   </section>
 
