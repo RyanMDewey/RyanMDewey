@@ -73,7 +73,9 @@
       </a>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph">
-      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies">
+      <div style="transform: scale(0.8); transform-origin: top left;">
+      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=8&margin-w=10" alt="Trophies">
+    </div>
     </div>
   </section>
 
