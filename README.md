@@ -14,7 +14,7 @@
     <h2>📂 Featured Projects</h2>
     <div class="tools">
       <a href="https://github.com/RyanMDewey/DWS" target="_blank">
-        <img src="https://img.shields.io/badge/Dewey_Runtime_Core_(DRC)-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Dewey Runtime Core (DRC)">
+        <img src="https://img.shields.io/badge/Dewey_Runtime_Core_(DRC)%20Chain-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Dewey Runtime Core (DRC)">
       </a>
       <a href="https://github.com/RyanMDewey/" target="_blank">
         <img src="https://img.shields.io/badge/Dewey_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=ethereum&logoColor=white" alt="Dewey Ledger">
