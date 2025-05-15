@@ -63,15 +63,15 @@
   <section>
     <h2>📊 Developer Metrics</h2>
       <div class="developer-metrics">
-      <a href="https://github.com/RyanMDewey">
-      <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" />
-      </a>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary">
       <img src="https://github-readme-stats.vercel.app/api?username=RyanMDewey&show_icons=true&theme=tokyonight" alt="GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&layout=compact&theme=tokyonight" alt="Top Languages">
-      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies">
+      <a href="https://github.com/RyanMDewey">
+      <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" />
+      </a>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph">
+      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies">
     </div>
   </section>
 
