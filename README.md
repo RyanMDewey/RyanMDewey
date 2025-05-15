@@ -63,22 +63,22 @@
 
   <section>
   <h2>📊 Developer Metrics</h2>
-  <div class="developer-metrics" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem; justify-items: center; align-items: center;"
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&langs_count=8&layout=pie&theme=tokyonight" alt="Pie Chart Languages" width="320">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="320">
-    <img src="https://github-readme-stats.vercel.app/api?username=RyanMDewey&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="320">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&layout=compact&theme=tokyonight" alt="Top Languages Compact" width="320">
-    <a href="https://github.com/RyanMDewey">
-      <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" width="320"/>
-    </a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary" width="320">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph" width="700" style="grid-column: span 2;"> 
-    <div style="transform: scale(0.8); transform-origin: top left; width: 100%;">
-      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=8&margin-w=10" alt="Trophies" style="width: 100%;">
+      <div class="developer-metrics">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&langs_count=8&layout=pie&theme=tokyonight" /
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+      <img src="https://github-readme-stats.vercel.app/api?username=RyanMDewey&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&layout=compact&theme=tokyonight" alt="Top Languages">
+      <a href="https://github.com/RyanMDewey">
+      <img src="https://ghchart.rshah.org/00ffcc/RyanMDewey" alt="GitHub Contribution Chart" />
+      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyanMDewey&theme=tokyonight" alt="GitHub Summary">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanMDewey&theme=tokyo-night&hide_border=true&custom_title=My+Daily+Dev+Flow" alt="Commit Activity Graph">
+      <div style="transform: scale(0.8); transform-origin: top left;">
+      <img src="https://github-profile-trophy.vercel.app/?username=RyanMDewey&theme=tokyonight&no-frame=true&column=8&margin-w=10" alt="Trophies">
     </div>
-  </div>
-</section>
-
+    </div>
+  </section>
+  
   <section>
     <h2>🎖️ Dev Accolades</h2>
     <ul>
