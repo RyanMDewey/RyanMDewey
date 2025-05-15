@@ -63,6 +63,7 @@
   <section>
     <h2>📊 Developer Metrics</h2>
       <div class="developer-metrics">
+      <img src="https://metrics.lecoq.io/RyanMDewey?template=classic&config.timezone=America%2FChicago&languages=1&lines=1&base=header,activity,community" />
       <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       <img src="https://github-readme-stats.vercel.app/api?username=RyanMDewey&show_icons=true&theme=tokyonight" alt="GitHub Stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&layout=compact&theme=tokyonight" alt="Top Languages">
