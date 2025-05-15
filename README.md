@@ -56,6 +56,7 @@
       <img src="https://img.shields.io/badge/WebAssembly-WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
       <img src="https://img.shields.io/badge/Three.js-3DGraphics-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
       <img src="https://img.shields.io/badge/Cannon.js-Physics-6A0DAD?style=flat-square" alt="Cannon.js">
+      <img src="https://img.shields.io/github/followers/RyanMDewey?label=Followers&style=flat-square&color=00ffcc" />
     </div>
 
   </section>
@@ -63,7 +64,6 @@
   <section>
     <h2>📊 Developer Metrics</h2>
       <div class="developer-metrics">
-      <img src="https://img.shields.io/github/followers/RyanMDewey?label=Followers&style=flat-square&color=00ffcc" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMDewey&langs_count=8&layout=pie&theme=tokyonight" /
       <img src="https://github-readme-streak-stats.herokuapp.com?user=RyanMDewey&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
       <img src="https://github-readme-stats.vercel.app/api?username=RyanMDewey&show_icons=true&theme=tokyonight" alt="GitHub Stats">
