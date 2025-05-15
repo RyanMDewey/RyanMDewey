@@ -14,10 +14,10 @@
     <h2>📂 Featured Projects</h2>
     <div class="tools">
       <a href="https://github.com/RyanMDewey/DWS" target="_blank">
-        <img src="https://img.shields.io/badge/Dewey_Worlds_Systems-(DRC)-00ffcc?style=flat-square&logo=code&logoColor=white" alt="Dewey World Systems (DWS)">
+        <img src="https://img.shields.io/badge/Dewey_Worlds_Systems-(DWS)-ff00cc?style=flat-square&logo=code&logoColor=white" alt="Dewey World Systems (DWS)">
       </a>
       <a href="https://github.com/RyanMDewey/" target="_blank">
-        <img src="https://img.shields.io/badge/Dewey_Ledger-AI%20Chain-00ffcc?style=flat-square&logo=ethereum&logoColor=white" alt="Dewey Ledger">
+        <img src="https://img.shields.io/badge/Dewey_Ledger-AI%20Chain-ff00cc?style=flat-square&logo=ethereum&logoColor=white" alt="Dewey Ledger">
       </a>
       <a href="https://github.com/RyanMDewey/" target="_blank">
         <img src="https://img.shields.io/badge/NEXUS_IDE-AI_Editor-ff00cc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="NEXUS IDE">
