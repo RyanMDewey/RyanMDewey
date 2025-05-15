@@ -1,5 +1,3 @@
-# Ryan Dewey – GitHub Landing README
-
 <div class="container">
   <header style="text-align: center;">
     <h1>Ryan Dewey</h1>
