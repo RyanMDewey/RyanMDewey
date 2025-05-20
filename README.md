@@ -97,8 +97,8 @@
       <a href="https://www.linkedin.com/in/ryan-dewey-b486a11ab/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Dewey-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://ryanmdewey.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-RyanMDewey.github.io-00ffcc?style=flat-square&logo=internetexplorer&logoColor=white" alt="Portfolio">
+      <a href="https://www.ryanmdewey.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-RyanMDewey.com-00ffcc?style=flat-square&logo=internetexplorer&logoColor=white" alt="Portfolio">
       </a>
     </div>
     <div style="margin-top: 2rem; font-size: 0.85rem; text-align: center; color: #00ffcc;">
